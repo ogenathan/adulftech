@@ -7323,6 +7323,8 @@ button.bg-dark:focus {
 .phone-white{
   color: black
   !important;
+  background-color: black
+  !important;
 
 }
 
